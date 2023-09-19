@@ -1,1 +1,1 @@
-# robotIntelligence
+# CSCI-UA 480-072: Robot Intelligence 
